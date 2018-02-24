@@ -280,7 +280,7 @@ shuffledDigitsDemo, and then apply the classifier. Verify that the error rate is
 
     ```
     octave:20> mnist1NNdemo
-    warning: load: '/Users/stromsund/Development/ml/pmtk3/bigData/mnistAll/mnistAll.mat' found by searching load path
+    warning: load: '/Users/knikitin/Development/ml/pmtk3/bigData/mnistAll/mnistAll.mat' found by searching load path
     Reshuffling was activated
     Error Rate: 3.80%
     Total Time: 3.55 seconds
@@ -290,7 +290,7 @@ shuffledDigitsDemo, and then apply the classifier. Verify that the error rate is
 
     ```
     octave:21> mnist1NNdemo
-    warning: load: '/Users/stromsund/Development/ml/pmtk3/bigData/mnistAll/mnistAll.mat' found by searching load path
+    warning: load: '/Users/knikitin/Development/ml/pmtk3/bigData/mnistAll/mnistAll.mat' found by searching load path
     Reshuffling was activated
     Error Rate: 3.09%
     Total Time: 28.04 seconds
